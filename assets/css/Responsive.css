@@ -14,10 +14,24 @@ section .btn-info{
       font-size: 15px;
   
   }
-  .productSection h2{
+.productSection h2{
       font-size: 20px;
   
   }
+  .productSection h3{
+      font-size: 16px;
+      color:#173460;
+      font-weight: bold;
+  
+  }
+  
+.productSection .btn-secondary {
+      color: #fff;
+      background-color: #173460;
+      font-size:14px;
+  
+  }
+
 
 
 }

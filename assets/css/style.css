@@ -62,4 +62,23 @@ section .btn-info:hover{
     font-weight: bold;
 
 }
+.productSection h3{
+    font-size: 20px;
+    color:#173460;
+    font-weight: bold;
+
+}
+
+.productSection .btn-secondary {
+    color: #fff;
+    background-color: #173460;
+    font-size:16px;
+
+}
+.productSection .btn-secondary:hover{
+    background: #fff;
+    color:#173460;
+
+}
+
 
