@@ -10,6 +10,14 @@ section .btn-info{
      width: 150px;
       
   }
+ .valueSection h1{
+      font-size: 15px;
+  
+  }
+  .productSection h2{
+      font-size: 20px;
+  
+  }
 
 
 }
