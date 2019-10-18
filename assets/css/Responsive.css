@@ -15,22 +15,26 @@ section .btn-info{
   
   }
 .productSection h2{
-      font-size: 20px;
+      font-size: 30px;
   
   }
-  .productSection h3{
+.productSection h3{
       font-size: 16px;
       color:#173460;
       font-weight: bold;
   
   }
-  
-.productSection .btn-secondary {
-      color: #fff;
-      background-color: #173460;
-      font-size:14px;
-  
-  }
+
+  .productSection .btn-secondary {
+    color: #fff;
+    background-color: #173460;
+    font-size:13px;
+    padding:10px 10px;
+
+}
+.productSection .row .row1{
+  margin-top:20px;
+}
 
 
 

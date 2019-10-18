@@ -29,7 +29,7 @@ header a:hover{
 .navbar-dark .navbar-nav .nav-link:hover{
     color: rgb(102, 121, 233);
 }
- section .btn-info{
+section .btn-info{
     font-size: 20px;
     color: #ffff;
    padding:15px 20px;
@@ -48,12 +48,13 @@ section .btn-info:hover{
 }
 .valueSection{
     width: 100%;
-    height:auto;
+    height:250;
 
 }
 .valueSection h1{
     font-size: 40px;
     color:#173460;
+    font-weight: bold;
 
 }
 .productSection{
@@ -62,13 +63,13 @@ section .btn-info:hover{
 
 }
 .productSection h2{
-    font-size: 30px;
+    font-size: 40px;
     color:#173460;
     font-weight: bold;
-
+    font-weight: bold;
 }
 .productSection h3{
-    font-size: 20px;
+    font-size:22px;
     color:#173460;
     font-weight: bold;
 
@@ -77,13 +78,18 @@ section .btn-info:hover{
 .productSection .btn-secondary {
     color: #fff;
     background-color: #173460;
-    font-size:12px;
+    font-size:14px;
     padding:15px 15px;
+    border-radius:30px;
+    outline: none;
+    border: none;
 
 }
 .productSection .btn-secondary:hover{
     background: #fff;
     color:#173460;
+    border:1px solid #173460;
+
 
 }
 
