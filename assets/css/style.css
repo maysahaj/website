@@ -56,6 +56,11 @@ section .btn-info:hover{
     color:#173460;
 
 }
+.productSection{
+    width: 100%;
+    height:300px;
+
+}
 .productSection h2{
     font-size: 30px;
     color:#173460;
@@ -72,7 +77,8 @@ section .btn-info:hover{
 .productSection .btn-secondary {
     color: #fff;
     background-color: #173460;
-    font-size:16px;
+    font-size:12px;
+    padding:15px 15px;
 
 }
 .productSection .btn-secondary:hover{
