@@ -14,6 +14,11 @@ section .btn-info{
       font-size: 15px;
   
   }
+  .productSection{
+    width: 100%;
+    height:500px;
+
+}
 .productSection h2{
       font-size: 30px;
   

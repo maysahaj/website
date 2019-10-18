@@ -68,7 +68,7 @@ section .btn-info:hover{
 
 .productSection{
     width: 100%;
-    height:500px;
+    height:550px;
 
 }
 .productSection h2{
@@ -100,11 +100,24 @@ section .btn-info:hover{
 
 
 }
+.ServicesSection{
+    width: 100%;
+    height:300px;
+
+}
 .ServicesSection h2{
     font-size: 40px;
-    color:#07cf61;
+    color:#c91c72;
     font-weight: bold;
 
+}
+.ServicesSection h3{
+    font-size:22px;
+    color:#173460;
+    font-weight: bold;
+}
+.ServicesSection p{
+    font-size:16px;
 }
 
 
