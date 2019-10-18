@@ -48,7 +48,7 @@ section .btn-info:hover{
 }
 .valueSection{
     width: 100%;
-    height:250;
+    height:200px;
 
 }
 .valueSection h1{
@@ -60,20 +60,20 @@ section .btn-info:hover{
 .circle{
     height: 100px;
     width:100px;
-    border:1px solid salmon;
     padding:35px 30px;
     border-radius:50%;
+    background:#c5d6f0;
+    border:none;
 }
 
 .productSection{
     width: 100%;
-    height:300px;
+    height:500px;
 
 }
 .productSection h2{
     font-size: 40px;
     color:#173460;
-    font-weight: bold;
     font-weight: bold;
 }
 .productSection h3{
@@ -96,8 +96,14 @@ section .btn-info:hover{
 .productSection .btn-secondary:hover{
     background: #fff;
     color:#173460;
-    border:1px solid #173460;
+    border:1px solid #176038;
 
+
+}
+.ServicesSection h2{
+    font-size: 40px;
+    color:#07cf61;
+    font-weight: bold;
 
 }
 
