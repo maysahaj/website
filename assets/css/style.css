@@ -57,6 +57,14 @@ section .btn-info:hover{
     font-weight: bold;
 
 }
+.circle{
+    height: 100px;
+    width:100px;
+    border:1px solid salmon;
+    padding:35px 30px;
+    border-radius:50%;
+}
+
 .productSection{
     width: 100%;
     height:300px;
