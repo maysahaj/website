@@ -121,7 +121,7 @@ section .btn-info:hover{
 }
 .TestamonialSection{
     width: 100%;
-    height:500px;
+    height:auto;
 }
 .TestamonialSection h2{
     font-size: 40px;
@@ -137,12 +137,42 @@ section .btn-info:hover{
     clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
     }
 
-    .TestamonialSection h3{
+.TestamonialSection h3{
         font-size:22px;
         color:#173460;
         font-weight: bold;
-    }
-      
+}
+.OrderPriceSection{
+    width: 100%;
+    height:auto;
+}
+.OrderPriceSection h2{
+    font-size: 40px;
+    color:#c91c72;
+    font-weight: bold;
+}
+.OrderPriceSection .btn-info{
+    font-size: 24px;
+    color:#173460;
+    height: 70px;
+    text-align: center;
+    width:350px;
+    line-height: 50px;
+    border-radius: 50px;
+    background:#98bcf1;
+}
+.OrderPriceSection .btn-info:hover{
+  text-decoration: none;
+  color:#aa6f9b;
+  outline: none;
+  border: none;
+}
+
+.SuccessSection h2{
+    font-size: 40px;
+    color:#c91c72;
+    font-weight: bold;
+}
     
 
 
