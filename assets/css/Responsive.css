@@ -26,7 +26,7 @@ section .btn-info{
   
   }
 
-  .productSection .btn-secondary {
+.productSection .btn-secondary {
     color: #fff;
     background-color: #173460;
     font-size:13px;
@@ -36,9 +36,15 @@ section .btn-info{
 .productSection .row .row1{
   margin-top:20px;
 }
-.ServicesSection {
-  margin-top: 510px;
+.TestamonialSection .triangle{
+	width: 100px;
+	height: 100px;
+  padding: 50px 30px;
+    
+}
 
+.TestamonialSection h3{
+        font-size:16px;
 }
 
 }
