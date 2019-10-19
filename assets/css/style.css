@@ -188,6 +188,41 @@ section .btn-info:hover{
     background:#b7ebe4;
     border:none;
 }
+.QuestionsSection{
+    width: 100%;
+    height:auto;
+}
+.QuestionsSection h2{
+    font-size: 40px;
+    color:#c91c72;
+    font-weight: bold;
+}
+.QuestionsSection .btn-info{
+    font-size: 24px;
+    color:#173460;
+    height: 60px;
+    text-align: center;
+    width:350px;
+    line-height: 40px;
+    border-radius: 50px;
+    background:#98bcf1;
+}
+.QuestionsSection .btn-info:hover{
+  text-decoration: none;
+  color:#aa6f9b;
+  outline: none;
+  border: none;
+}
+.OurPortofolio{
+    width: 100%;
+    height:auto;
+}
+.OurPortofolio  h2{
+    font-size: 40px;
+    color:#c91c72;
+    font-weight: bold;
+}
+
     
 
 
