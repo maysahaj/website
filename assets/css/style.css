@@ -173,6 +173,21 @@ section .btn-info:hover{
     color:#c91c72;
     font-weight: bold;
 }
+.SuccessSection .carousel-item img{
+    height: 18rem;
+}
+.SuccessSection .carousel-indicators {
+    bottom: 100px;
+    left:100px;
+}
+.SuccessSection .circle {
+    height:140px;
+    width:140px;
+    padding: 35px;
+    border-radius:50%;
+    background:#b7ebe4;
+    border:none;
+}
     
 
 
