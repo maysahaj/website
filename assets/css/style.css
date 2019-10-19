@@ -222,6 +222,14 @@ section .btn-info:hover{
     color:#c91c72;
     font-weight: bold;
 }
+.OurPortofolio .circle {
+    height:140px;
+    width:140px;
+    padding: 30px;
+    border-radius:50%;
+    background:#f5eda6;
+    border:none;
+}
 
     
 
