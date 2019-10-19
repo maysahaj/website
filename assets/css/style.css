@@ -53,12 +53,12 @@ section .btn-info:hover{
 }
 .valueSection{
     width: 100%;
-    height:200px;
+    height:auto;
 
 }
 .valueSection h1{
     font-size: 40px;
-    color:#173460;
+    color:#c91c72;
     font-weight: bold;
 
 }
@@ -222,8 +222,9 @@ section .btn-info:hover{
     border:1px solid #173460;
     color: #fd16a4;
 }
+
 .contactNumber h3{
-    font-size:22px;
+    font-size:20px;
     color:#173460;
     font-weight: bold;
 }
@@ -231,7 +232,40 @@ section .btn-info:hover{
     width:100%;
     height: auto;
     background: #173460;
-    color:#fff;
+    padding: 5px 20px;
+}
+
+/*start footer*/
+.footerSection{
+    padding: 70px 0px;
+    background-color: #173460;
+    height: auto;
+    width: 100%
+}
+.footerSection h2{
+    font-size: 24px;
+    color: #fff;
+}
+.footerSection ul li a{
+    color: #98a0aa;
+    padding-top: 8px;
+     text-decoration: none;
+     transition-duration: 0.3s;
+     display: inline-block;
+     font-size: 15px
+}
+.footerSection ul li a:hover{
+    color: #fff;
+    transition-duration: 0.3s
+}
+.footerSection .rectangle{
+    font-size: 16px;
+    padding:15px 14px;
+    border:1px solid #fff;
+    color: #fff;
+}
+.footerSection .rectangle:hover{
+    color: #fff;
 }
 
     
