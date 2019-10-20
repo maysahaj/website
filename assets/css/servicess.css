@@ -1,0 +1,54 @@
+.designSection h3  {
+    font-size:24px;
+    color:#173460;
+    font-weight: bold;
+
+}
+.designSection p {
+    font-size:20px;
+    color:#5f97ec;
+
+}
+.itemdesignSection .row h3  {
+    font-size:20px;
+    color:#173460;
+    font-weight: bold;
+
+}
+.itemdesignSection .row a {
+    font-size:50px;
+    color:#173460;
+    font-weight: bold;
+
+}
+.designSection .row .p{
+    font-size:16px;
+    color:#0c0c0c;
+
+}
+.progress {
+    display: -ms-flexbox;
+    display: flex;
+    height: 10px;
+    overflow: hidden;
+    font-size: 20px;
+    background-color: #e9ecef;
+    border-radius: .25rem;
+}
+.red{
+    font-size:22px;
+    color:red;
+}
+.progress-bar {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -ms-flex-pack: center;
+    justify-content: center;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    background-color: red;
+    transition: width .6s ease;
+}
