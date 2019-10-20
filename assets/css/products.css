@@ -1,5 +1,25 @@
-.contentSystem .rectangle1{
-    height:100px;
-    width:100px;
-    border:1px solid #ec5c08;
+.content{
+  height: 200px;
+    border:1px solid #101552;
+}
+mark{
+    background: rgb(209, 212, 206);
+}
+.orderSection h2{
+    font-size: 32px;
+}
+.orderSection .btn-info{
+    font-size: 24px;
+    color:#173460;
+    height: 60px;
+    text-align: center;
+    width:350px;
+    line-height: 40px;
+    background:#98bcf1;
+}
+.orderSection .btn-info:hover{
+  text-decoration: none;
+  color:#aa6f9b;
+  outline: none;
+  border: none;
 }
