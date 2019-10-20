@@ -4,6 +4,14 @@
   
     
 }
+.section  h2{
+  font-size:30px;
+  color:#c91c72;
+  font-weight: bold;
+}
+.slider .carousel-item img{
+  height: 20rem;
+}
 section .btn-info{
      font-size: 14px;
      padding:10px 10px;
@@ -11,9 +19,14 @@ section .btn-info{
       
   }
  .valueSection h1{
-      font-size: 15px;
+      font-size: 30px;
   
   }
+  .valueSection .circle {
+    height: 80px;
+    width:80px;
+    padding:25px 20px;
+}
 
 .productSection h2{
       font-size: 30px;
