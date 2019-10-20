@@ -46,16 +46,16 @@ header a:hover{
     outline: none;
  
 }
+.section{
+    height: auto;
+    width: 100%
+}
 .section  h2{
     font-size: 40px;
     color:#c91c72;
     font-weight: bold;
 }
-.valueSection{
-    width: 100%;
-    height:auto;
 
-}
 .valueSection h1{
     font-size: 40px;
     color:#c91c72;
@@ -69,12 +69,6 @@ header a:hover{
     border-radius:50%;
     background:#c5d6f0;
     border:none;
-}
-
-.productSection{
-    width: 100%;
-    height:auto;
-
 }
 
 .productSection h3{
@@ -101,11 +95,6 @@ header a:hover{
 
 
 }
-.ServicesSection{
-    width: 100%;
-    height:auto;
-
-}
 
 .ServicesSection h3{
     font-size:22px;
@@ -114,10 +103,6 @@ header a:hover{
 }
 .ServicesSection p{
     font-size:16px;
-}
-.TestamonialSection{
-    width: 100%;
-    height:auto;
 }
 
 .TestamonialSection .triangle{
@@ -133,10 +118,6 @@ header a:hover{
         font-size:22px;
         color:#173460;
         font-weight: bold;
-}
-.OrderPriceSection{
-    width: 100%;
-    height:auto;
 }
 
 .OrderPriceSection .btn-info{
@@ -172,10 +153,6 @@ header a:hover{
     background:#b7ebe4;
     border:none;
 }
-.QuestionsSection{
-    width: 100%;
-    height:auto;
-}
 
 .QuestionsSection .btn-info{
     font-size: 24px;
@@ -193,10 +170,6 @@ header a:hover{
   outline: none;
   border: none;
 }
-.OurPortofolio{
-    width: 100%;
-    height:auto;
-}
 
 .OurPortofolio .circle {
     height:140px;
@@ -206,10 +179,7 @@ header a:hover{
     background:#f5eda6;
     border:none;
 }
-.ArticlesSection{
-    width:100%;
-    height: auto;
-}
+
 .ArticlesSection .square{
     height:200px;
     width:300px;
@@ -228,19 +198,13 @@ header a:hover{
     color:#173460;
     font-weight: bold;
 }
-.footerSection{
-    width:100%;
-    height: auto;
-    background: #173460;
-    padding: 5px 20px;
-}
 
 /*start footer*/
 .footerSection{
     padding: 70px 0px;
     background-color: #173460;
     height: auto;
-    width: 100%
+    width: 100%;
 }
 .footerSection h2{
     font-size: 24px;
@@ -268,6 +232,29 @@ header a:hover{
 .footerSection .rectangle:hover{
     color:#98bcf1;
 }
+
+.subscribeInput{
+    border-radius: 20px;
+    height: 50px;
+    background: #f8f8f8;
+    border:0px;
+    padding: 0px 30px 0px 35px;
+}
+.subscribeForm{
+    position: relative;
+}
+.subscribeBtn{
+    position: absolute;
+    border-radius:20px;
+    height: 50px;
+    width: 100px;
+    color: white;
+    border: 0px;
+    right: 220px;
+    top: 0px;
+    background:#55c0f1;
+}
+
 
     
 
