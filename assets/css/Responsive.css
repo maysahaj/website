@@ -131,24 +131,7 @@ text-align: center;
 .footerSection ul li a {
   font-size: 13px;
 }
-.footerSection .subscribeInput{
-  border-radius: 6px;
-  height: 40px;
-  background: #f8f8f8;
-  border:0px;
-  padding: 0px 25px 0px 25px;
-  margin-right: 30px;
-}
-.footerSection .subscribeForm{
-  position: relative;
-}
-.footerSection .subscribeBtn{
-  height: 40px;
-  width:80px;
-  border: 0px;
-  right: 230px;
-  top: 0px;
-}
+
 .footerSection .rectangle{
   font-size: 20px;
   padding:5px 10px;
