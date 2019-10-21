@@ -74,15 +74,23 @@
   width:200px;
   line-height: 35px;
 }
+.QuestionsSection .btn-info{
+  font-size: 18px;
+  color:#173460;
+  height: 50px;
+  text-align: center;
+  width:200px;
+  line-height: 35px;
+}
 
 .OurPortofolio .circle {
-  height: 80px;
-  width: 80px;
-  padding: 20px;
+  height: 70px;
+  width: 70px;
+  padding: 10px;
  }
  .OurPortofolio .circle img{
-  height: 25px;
-  width: 25px;
+  height: 20px;
+  width: 20px;
  }
  .SuccessSection .carousel-item img {
   height: 12rem;
@@ -92,10 +100,64 @@
 
 }
 .ArticlesSection .square{
-margin-right: 20px;
+margin-right: 100px;
+height: 100px;
+width: 150px;
+text-align: center;
+}
+.contactNumber .rectangle{
+  font-size: 14px;
+  padding: 2px 5px;
+  border:1px solid #173460;
+  color: #fd16a4;
+}
+
+.contactNumber h3{
+  font-size:14px;
+  color:#173460;
+  font-weight: bold;
 }
 .pictureSystem .row .row1{
   margin-top: 20px;
+}
+.priceSection .row1{
+  margin-top: 20px;
+
+}
+.footerSection h2 {
+  font-size: 16px;
+  color: #fff;
+}
+.footerSection ul li a {
+  font-size: 13px;
+}
+.footerSection .subscribeInput{
+  border-radius: 6px;
+  height: 40px;
+  background: #f8f8f8;
+  border:0px;
+  padding: 0px 25px 0px 25px;
+  margin-right: 30px;
+}
+.footerSection .subscribeForm{
+  position: relative;
+}
+.footerSection .subscribeBtn{
+  height: 40px;
+  width:80px;
+  border: 0px;
+  right: 230px;
+  top: 0px;
+}
+.footerSection .rectangle{
+  font-size: 20px;
+  padding:5px 10px;
+  border:1px solid #fff;
+  color: #fff;
+  margin-left: 10px;
+}
+.footerSection .rectangle:hover{
+  color:#98bcf1;
 }
 
 }
