@@ -256,6 +256,19 @@ header a:hover{
     top: 0px;
     background:#55c0f1;
 }
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+
+  }
+table mark{
+      color: red;
+  }
+table th{
+    font-size: 24px;
+    color: #173460;
+}
+ 
 
 
     
