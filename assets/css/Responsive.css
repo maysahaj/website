@@ -36,18 +36,16 @@
 .ServicesSection p {
   font-size: 14px;
 }
-
-.productSection h2{
-      font-size: 30px;
-  
-  }
+.ServicesSection svg{
+  width:100px;
+  height: 100px;
+}
 .productSection h3{
       font-size: 16px;
       color:#173460;
       font-weight: bold;
   
   }
-
 .productSection .btn-secondary {
     color: #fff;
     background-color: #173460;
@@ -68,6 +66,15 @@
 .TestamonialSection h3{
         font-size:16px;
 }
+.OrderPriceSection .btn-info{
+  font-size: 18px;
+  color:#173460;
+  height: 50px;
+  text-align: center;
+  width:200px;
+  line-height: 35px;
+}
+
 .OurPortofolio .circle {
   height: 80px;
   width: 80px;
