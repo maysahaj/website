@@ -29,6 +29,9 @@ header a:hover{
 .navbar-dark .navbar-nav .nav-link:hover{
     color: rgb(102, 121, 233);
 }
+.slider .carousel-item img {
+    height: 32rem;
+}
 .slider .btn-info{
     font-size: 20px;
     color: #ffff;
@@ -39,9 +42,6 @@ header a:hover{
    outline: none;
    background:#173460;
  
-}
-.slider .carousel-item img {
-    height: 32rem;
 }
 .slider .btn-info:hover{
     background: #ffff;
