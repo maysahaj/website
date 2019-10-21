@@ -29,6 +29,10 @@ header a:hover{
 .navbar-dark .navbar-nav .nav-link:hover{
     color: rgb(102, 121, 233);
 }
+.navbar-nav{
+    display :flex;
+	margin:0 auto;
+}
 .slider .carousel-item img {
     height: 32rem;
 }

@@ -159,5 +159,16 @@ text-align: center;
 .footerSection .rectangle:hover{
   color:#98bcf1;
 }
+.designSection h3  {
+  font-size:18px;
+  color:#173460;
+  font-weight: bold;
+
+}
+.designSection p {
+  font-size:20px;
+  color:#5f97ec;
+
+}
 
 }
